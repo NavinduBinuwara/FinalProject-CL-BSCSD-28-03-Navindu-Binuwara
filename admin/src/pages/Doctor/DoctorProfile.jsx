@@ -16,7 +16,7 @@ const DoctorProfile = () => {
 
         const updateData = {
           address: profileData.address,
-          fees: profileData.fees
+          fees: profileData.fees,
           available:profileData.available
         }
 
